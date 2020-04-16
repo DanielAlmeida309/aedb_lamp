@@ -24,7 +24,7 @@ Agora com o git bem configurado.
             L2 is OFF.
         ON L2
             L2 turned ON.
-        S L2 
+        S L2
             L2 is ON.
         S L1
             L1 is OFF.
@@ -44,3 +44,5 @@ Agora com o git bem configurado.
 # Créditos
 
 AED DCT UAL &copy; 2020
+
+TESTE
